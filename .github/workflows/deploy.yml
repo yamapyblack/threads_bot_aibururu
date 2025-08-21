@@ -1,0 +1,26 @@
+name: Docker Compose Up
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # A案: v3に上げる
+      - uses: MrSquaare/ssh-setup-action@v3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Compose up on remote over SSH
+        run: docker compose up --build -d
+        env:
+          DOCKER_HOST: "ssh://${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}"
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}

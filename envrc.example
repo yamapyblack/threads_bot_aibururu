@@ -1,0 +1,5 @@
+layout node
+
+export THREADS_USER_ID=
+export THREADS_ACCESS_TOKEN=
+export DISCORD_WEBHOOK_URL=""

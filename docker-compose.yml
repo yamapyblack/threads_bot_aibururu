@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  threads-bot-ruru-aibu:
+    build: .
+    container_name: threads-bot-ruru-aibu
+    restart: unless-stopped
+    environment:
+      - THREADS_USER_ID=${THREADS_USER_ID}
+      - THREADS_ACCESS_TOKEN=${THREADS_ACCESS_TOKEN}
+      - DISCORD_WEBHOOK_URL=${DISCORD_WEBHOOK_URL}
