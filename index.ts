@@ -141,6 +141,8 @@ async function runBot() {
       imageUrl: post_json[indexToUse].imageUrl,
     });
 
+    counter = (counter + 1) % post_json.length;
+
     await notifyDiscord(
       `RuruAibu post succeeded. Index: ${indexToUse} Image: ${
         post_json[indexToUse].imageUrl
