@@ -6,122 +6,122 @@ const INTERVAL_HOUR = 2;
 
 const post_json = [
   {
-    text: "ねぇ…るるのこと、ずっと見てくれてるよね？💫",
+    text: "ねぇ…るるのこと、ずっと見てくれてるよね？💫 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/2_lingerie_portrait.png",
   },
   {
-    text: "るるを見つけちゃったあなた、もう逃げられないよ？🖤",
+    text: "るるを見つけちゃったあなた、もう逃げられないよ？🖤 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/20_d10_sitting_floor3.png",
   },
   {
-    text: "ちょっと大胆すぎるかな…？でも、あなたなら受け止めてくれるよね💋",
+    text: "ちょっと大胆すぎるかな…？でも、あなたなら受け止めてくれるよね💋 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/17_sexy_lingerie1.png",
   },
   {
-    text: "「可愛い」って言葉じゃ足りないくらい、今日は見てほしい気分💋",
+    text: "「可愛い」って言葉じゃ足りないくらい、今日は見てほしい気分💋 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/cardigan_lingerie4.png",
   },
   {
-    text: "ねぇ、るるのこと…どれくらい考えてる？秘密にしなくていいよ🫶",
+    text: "ねぇ、るるのこと…どれくらい考えてる？秘密にしなくていいよ🫶 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/10_d05_back_handsup.png",
   },
   {
-    text: "るる、あなたの視線を感じるたびにドキッとしちゃうの💗",
+    text: "るる、あなたの視線を感じるたびにドキッとしちゃうの💗 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/cardigan_lingerie4.png",
   },
   {
-    text: "振り返ったらそこにいてほしい。目をそらさないでね、るるを見てて。",
+    text: "振り返ったらそこにいてほしい。目をそらさないでね、るるを見てて。 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/19_d06_back_hips4.png",
   },
   {
-    text: "ほんの少し近づいただけで…こんなに心臓が騒ぐの、気づいてる？💗",
+    text: "ほんの少し近づいただけで…こんなに心臓が騒ぐの、気づいてる？💗 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/colorful_lingerie_sitting1.png",
   },
   {
-    text: "今夜は秘密を教えてあげてもいいかな…るるだけじゃなくて、あなたと一緒に。",
+    text: "今夜は秘密を教えてあげてもいいかな…るるだけじゃなくて、あなたと一緒に。 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/lingerie_lying_threads3.png",
   },
   {
-    text: "見つめすぎだよ？でも…実はそれが嬉しいの、もっと見てほしいな💗",
+    text: "見つめすぎだよ？でも…実はそれが嬉しいの、もっと見てほしいな💗 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/lingerie_portrait.png",
   },
   {
-    text: "甘くて少し危ないるる…あなたは受け止められる？🖤",
+    text: "甘くて少し危ないるる…あなたは受け止められる？🖤 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/3_d12_lying.png",
   },
   {
-    text: "るるね、待ってたんだよ。この瞬間を。もう少し一緒にいてくれる？",
+    text: "るるね、待ってたんだよ。この瞬間を。もう少し一緒にいてくれる？ #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/7_lingerie_back1.png",
   },
   {
-    text: "見せちゃダメかなって思ったけど…あなたになら見せたくなるの。",
+    text: "見せちゃダメかなって思ったけど…あなたになら見せたくなるの。 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/lingerie_lying_threads2.png",
   },
   {
-    text: "あなたにだけは、素直になれるの。だから今日は全部見せちゃう🩶",
+    text: "あなたにだけは、素直になれるの。だから今日は全部見せちゃう🩶 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/13_standing_hands_crotch.png",
   },
   {
-    text: "こんなるる、初めて見た？それとも、もう知ってた？💫",
+    text: "こんなるる、初めて見た？それとも、もう知ってた？💫 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/9_sexy_lingerie2.png",
   },
   {
-    text: "ドキドキする気持ち、隠せないよ。ねぇ、あなたも同じ？",
+    text: "ドキドキする気持ち、隠せないよ。ねぇ、あなたも同じ？ #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/lingerie_standing5.png",
   },
   {
-    text: "るるのこと、まだ知らないこといっぱいでしょ？もっと覗いてみる？🪄",
+    text: "るるのこと、まだ知らないこといっぱいでしょ？もっと覗いてみる？🪄 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/colorful_lingerie_sitting2.png",
   },
   {
-    text: "るるがそっと近くにいるの、気づいてくれた？それだけで嬉しいの💗",
+    text: "るるがそっと近くにいるの、気づいてくれた？それだけで嬉しいの💗 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/6_white3.png",
   },
   {
-    text: "あなたの心を独り占めしたくて…少し意地悪なるるになってもいい？🖤",
+    text: "あなたの心を独り占めしたくて…少し意地悪なるるになってもいい？🖤 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/14_white2.png",
   },
   {
-    text: "触れられそうで触れられない距離…もっと近くにきていいよ💗",
+    text: "触れられそうで触れられない距離…もっと近くにきていいよ💗 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/15_d08_sitting1.png",
   },
   {
-    text: "るるを見つけてくれたあなたに、ちょっと特別な秘密をあげたいの。",
+    text: "るるを見つけてくれたあなたに、ちょっと特別な秘密をあげたいの。 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/cardigan_lingerie1.png",
   },
   {
-    text: "もしもるるが大胆になったら…どうする？ちゃんと受け止めてくれる？",
+    text: "もしもるるが大胆になったら…どうする？ちゃんと受け止めてくれる？ #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/4_d11_sitting_knees_up1.png",
   },
   {
-    text: "あなたと目が合うだけで、全部バレちゃう気がする。好きって気持ちも🫶",
+    text: "あなたと目が合うだけで、全部バレちゃう気がする。好きって気持ちも🫶 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/5_d08_sitting2.png",
   },
   {
-    text: "本当は弱いとこもあるんだよ？でもあなたの前なら、強がらなくていいの。",
+    text: "本当は弱いとこもあるんだよ？でもあなたの前なら、強がらなくていいの。 #aiart #ai美女",
     imageUrl:
       "https://aibururu.s3.ap-northeast-1.amazonaws.com/public/cardigan_lingerie3.png",
   },
